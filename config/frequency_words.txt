@@ -12,6 +12,9 @@ C++
 c++
 Zig
 zig
+vim
+编辑器
+vscode
 
 DeepSeek
 梁文锋
@@ -22,6 +25,12 @@ bytedance
 
 特斯拉
 马斯克
+
+阿里
+蚂蚁
+马云
+qwen
+千问
 
 微软
 Microsoft
@@ -41,9 +50,18 @@ chatgpt
 openai
 sora
 
+智谱
+zhipu
+glm
+
 claude
+claude-code
 Anthropic
 
 ai
 !gai
 人工智能
+
+agent
+mcp
+vide-coding
